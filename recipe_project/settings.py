@@ -35,7 +35,7 @@ SECRET_KEY = os.environ.get(
 DEBUG = True
 
 ALLOWED_HOSTS = ['https://floating-journey-56473.herokuapp.com/',
-                 'floating-journey-56473.herokuapp.com']
+                 'floating-journey-56473.herokuapp.com', 'http://127.0.0.1:8000/', '127.0.0.1']
 
 
 # Application definition
