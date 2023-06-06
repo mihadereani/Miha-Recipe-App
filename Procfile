@@ -1,1 +1,1 @@
-web: gunicorn miha-recipe-app.wsgi --log-file -
+web: gunicorn Miha-Recipe-App.wsgi --log-file -
